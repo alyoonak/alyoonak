@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alyoonak
+- 👀 I’m interested in marketing reseach, data analisis, and finding my place in the world.
+- 🌱 I’m currently learning sql and java.
+- 💞️ I’m looking to collaborate on codding.
+- 📫 How to reach me: normanscook21@gmail.com
